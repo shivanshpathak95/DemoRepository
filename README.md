@@ -1,2 +1,3 @@
 # DemoRepository
-This is just a random Git Repository
+This is just a random Git Repository.
+Author- Shivansh Pathak
